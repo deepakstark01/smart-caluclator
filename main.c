@@ -2,5 +2,5 @@
 void main()
 {
     int numberA = 10, numberB=20;
-    printf("%d", numberA+numberB);
+    printf("%d", numberA+numberB);// hey deepak
 }
