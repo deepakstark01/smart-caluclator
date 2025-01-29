@@ -1,5 +1,6 @@
 #include<stdio.h>
 void main()
 {
-    printf("hey my calculator\n");
+    int numberA = 10, numberB=20;
+    printf("%d", numberA+numberB);
 }
