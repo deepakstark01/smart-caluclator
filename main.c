@@ -7,4 +7,7 @@ void main()
     // subtraction 
     printf("%d", numberA-numberB);
 
+    // mutliplication
+     printf("%d", numberA*numberB);
+
 }
